@@ -1,0 +1,1 @@
+g++ -o "/home/aykut/projects/LinuxClient/bin/x64/Debug/LinuxClient.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/aykut/projects/LinuxClient/obj/x64/Debug/ClientMain.o

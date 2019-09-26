@@ -1,0 +1,9 @@
+﻿  Cleaning remote project directory
+  Validating sources
+  Copying sources remotely to '127.0.0.1'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  ClientMain.cpp
+  Linking objects
+  LinuxClient.vcxproj -> F:\Prj\P1002\consoleTest\LinuxClient\bin\x64\Debug\LinuxClient.out
